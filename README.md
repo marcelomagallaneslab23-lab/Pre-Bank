@@ -6,7 +6,7 @@ Simular una entidad bancaria donde los usarios puedan:
 
 1. Depositar fondos
 2. Retirar fondos
-3. Consltar su saldo
+3. Consultar su saldo
 4. El administrador pueda ver el total de fondos del sistema
 
 **Estructura del Contrato**
